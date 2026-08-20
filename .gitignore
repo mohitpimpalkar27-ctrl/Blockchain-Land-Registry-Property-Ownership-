@@ -1,0 +1,21 @@
+# Node dependencies
+node_modules/
+
+# Hardhat generated files
+artifacts/
+cache/
+
+# Environment variables
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+npm-debug.log*

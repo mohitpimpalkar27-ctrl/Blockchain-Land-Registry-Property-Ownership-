@@ -1,0 +1,9 @@
+{
+  "propertyId": 1001,
+  "propertyNumber": "P001",
+  "surveyNumber": "SURVEY-001",
+  "owner": "Dummy Owner A",
+  "location": "Demo Nagar Maharashtra",
+  "area": 1500,
+  "propertyType": "Residential"
+}
