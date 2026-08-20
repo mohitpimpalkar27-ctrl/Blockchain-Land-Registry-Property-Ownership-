@@ -19,3 +19,4 @@ Thumbs.db
 # Temporary files
 *.log
 npm-debug.log*
+desktop.ini
